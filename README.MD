@@ -33,12 +33,3 @@ npx prisma studio
 Certifique-se de que o arquivo `.env` está configurado corretamente com a URL do banco de dados.
 
 ### Acessos:
-
-```nome: jpdevcontato_db_user
-
-- senha: BWuZEkB8j8Kp6yyw
-
-- acesso: mongodb+srv://
-
-- jpdevcontato_db_user:BWuZEkB8j8Kp6yyw@cluster0.peoo5d2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-```
