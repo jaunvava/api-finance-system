@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Iniciar servidor Node.js",
+			"type": "shell",
+			"command": "node server.js",
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Iniciar servidor Node.js (watch)",
+			"type": "shell",
+			"command": "node --watch server.js",
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Iniciar servidor Node.js (watch)",
+			"type": "shell",
+			"command": "node --watch server.js",
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
